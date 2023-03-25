@@ -23,6 +23,12 @@ body,
   background: #e0e0e0;
 }
 
+/* Hnadle */
 ::-webkit-scrollbar-thumb {
   background: #888;
+}
+
+/* Hnadle on Hover */
+::-webkit-scrollbar-track:hover {
+  background: #555;
 }
